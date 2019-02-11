@@ -1,5 +1,5 @@
 ## Omni Food
 
-The landing page is created using HTML/CSS/Bootstrap and other frameworks. 
+The landing page is created using HTML5/CSS3/Bootstrap 4 and other frameworks. 
 
 No copyright reserved.
